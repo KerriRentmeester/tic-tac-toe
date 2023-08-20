@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Square from './square';
+import { checkForWinner } from '../utils/winning';
 
 const Board = () => {
     // 1st player is X ie 1
