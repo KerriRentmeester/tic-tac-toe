@@ -4,6 +4,8 @@ React Game: Tic-Tac-Toe
 
 # **Description**: 
 
+The React Game: Tic-Tac-Toe project is a simple game. The game is won by marking a line of 3 (horizontally, vertically, or diagonally) squares in a row by the same player. The fastest this game can be won in is on the fifth turn. The two players are indicated by a red X and a white O.
+
 The React Game: Tic-Tac-Toe project is an example of my ability to create a React app, employ Babel transpiler, and my JSX, Javascript, HTML5, and css coding capabilities, and as such, it is one component of my professional portfolio. This particular project is based off of similar activities I worked on in August of 2023 in module 15 of the MIT xPro via Emeritus bootcamp I was enrolled in called "Professional Certificate in Coding: Full Stack Development with MERN."
 
 # **Installation and Usage**: 
@@ -64,15 +66,15 @@ Future fixes or improvements that would be helpful to a user:
 
 * Currently the color of the letter (player X or O) changes color when a square is marked. Specifically when it player X marks the board, the X appears in red and the O appears in white. An improvement would be for the color of the square (not the letter) to change. 
 
-* Currently when the {status} of WINNER is declared at the bottom of the screen, it does not stand out. An improvement would be to make the winner status more obvious becuase it is barely noticable now when a winner has been declared. Possible improvements include:
-* larger font
-* flashing font 
-* font that standouts more against the background color
-* create a rectangle with a standout background color and a border, in which the winner status fills.
-
 * Currently when a winner is declared, play can still continue. An improvement would be to prevent the next player from marking the board once a winner has been declared.
 
 * Another improvement would be to prevent player X from being able to mark a square that player O already marked, and vice versa.
+
+* Currently when the {status} of WINNER is declared at the bottom of the screen, it does not stand out. An improvement would be to make the winner status more obvious becuase it is barely noticable now when a winner has been declared. Possible improvements include:
+- larger font
+- flashing font 
+- font that standouts more against the background color
+- create a rectangle with a standout background color and a border, in which the winner status fills.
 
 # **Contributing**: 
 
