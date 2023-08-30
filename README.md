@@ -10,7 +10,7 @@ The React Game: Tic-Tac-Toe project is an example of my ability to create a Reac
 
 # **Installation and Usage**: 
 
-To run my project on your machine, download the files onto your machine or clone the repo. Navigate to the project directory in terminal. Install the necessary dependencies by typing the command prompt: npm install. Start the server by typing the command prompt: npm start.
+To run my project on your machine, download the files onto your machine or clone the repo. Navigate to the project directory in terminal. Start the server by typing the command prompt: npm start. Additionally, enter the command, npm run build.
 
 If you are having issues, ensure the version of Node.js you are using is compatible.
 
@@ -75,6 +75,10 @@ Future fixes or improvements that would be helpful to a user:
 - flashing font 
 - font that standouts more against the background color
 - create a rectangle with a standout background color and a border, in which the winner status fills.
+
+* Add a sound when a player marks a square.
+
+* Add a log in profile where the player can create a unique user name and symbol (not just an X or O). The log in capability could also allow tracking each individual player's past wins so their score increases with each game won.
 
 # **Contributing**: 
 
